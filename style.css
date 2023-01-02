@@ -1,0 +1,182 @@
+body {
+    margin: 0;
+}
+
+.donation-image {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+
+.donate-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: blue;
+}
+
+.btn {
+    background-color: rgb(14, 1, 39);
+    border-radius: 5px;
+    border-style: none;
+    padding: 13px;
+}
+
+#btn-text {
+    color: aliceblue;
+}
+
+.donation-amount {
+    margin: 100px 300px 0px 300px;
+}
+
+.amount-text {
+    text-align: center;
+}
+
+.amount-text h1 {
+    font-size: 50px;
+}
+
+.amount-text p {
+    font-size: 20px;
+}
+
+.amount {
+    display: flex;
+}
+
+.tk {
+    padding: 35px 35px 35px 0px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.donate-text h1 {
+    font-size: 50px;
+}
+
+.donate-text {
+    font-size: 20px;
+}
+
+.amount-input {
+    text-align: center;
+}
+
+.input-submit {
+    text-align: center;
+}
+
+.input-submit button {
+    background-color: chocolate;
+    color: aliceblue;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.donate-plan {
+    padding-top: 80px;
+}
+
+.plan-head {
+    text-align: center;
+    font-size: 50px;
+}
+
+.plan-para {
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.plane-part {
+    display: flex;
+    margin-top: 80px;
+}
+
+.family {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 30px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.shelter {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 50px;
+    background: rgba(168, 115, 238, 0.493);
+    border-radius: 5px;
+}
+
+.children {
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background: rgba(64, 243, 219, 0.493);
+    border-radius: 5px;
+}
+
+.update-email {
+    text-align: center;
+    margin: 80px 200px 0 200px;
+}
+
+.update-email h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.email-submit {
+    margin: 50px;
+    background-color: darkkhaki;
+    width: 75%;
+    height: 200px;
+}
+
+.email {
+    padding-top: 80px;
+}
+
+.email-pad {
+    padding: 14px;
+}
+
+.subscribe {
+    font-size: 25px;
+    margin-left: -4px;
+    padding: 6px;
+    padding-bottom: 13px;
+    color: aliceblue;
+    background-color: chocolate;
+    border: none;
+}
+
+footer {
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+}
+
+footer h1 {
+    font-size: 50px;
+    color: cornflowerblue;
+}
